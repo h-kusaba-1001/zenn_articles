@@ -3,7 +3,7 @@ title: "Cursor × Mermaid Graphical Editor でダイアグラム作成を極め�
 emoji: "😸" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア記事
 topics: ["cursor", "Mermaid", "markdown"] # タグ。["markdown", "rust", "aws"]のように指定する
-published: false # 公開設定（falseにすると下書き）
+published: true # 公開設定（falseにすると下書き）
 ---
 ## はじめに
 こんにちは。
@@ -160,7 +160,7 @@ graph TD
 - Cursorを使用し、Mermaidでダイアグラムを生成できる
 - VSCode Plugin `Mermaid Graphical Editor`を使用することで、GUIでMermaidを編集できる
 
-結局なんやねん！と思われるかもしれませんが、下記のケースで活用できると考えています。
+結局なんやねん！と思われるかもしれませんが、**下記のケースでさらに活用できる**と考えています。
 
 - 新たにダイアグラムを作る場合
     - Cursorでプロンプトして、叩き台のMermaidを生成し、GUIで微調整する
