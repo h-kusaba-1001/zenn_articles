@@ -1,6 +1,6 @@
 ---
 title: "Cursor × Mermaid Graphical Editor でダイアグラム作成を極める" # 記事のタイトル
-emoji: "😸" # アイキャッチとして使われる絵文字（1文字だけ）
+emoji: "🖌️" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア記事
 topics: ["cursor", "Mermaid", "markdown"] # タグ。["markdown", "rust", "aws"]のように指定する
 published: true # 公開設定（falseにすると下書き）
