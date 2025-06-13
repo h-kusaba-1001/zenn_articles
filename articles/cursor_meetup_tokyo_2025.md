@@ -24,9 +24,10 @@ Youtubeライブで参加したのですが、かなり刺激や知見をもら�
 
 https://www.docswell.com/s/miyatti/KJ4DXM-2025-06-06-193814
 
+https://github.com/miyatti777/aipm_v0
 
-## QIP
+https://zenn.dev/minedia/articles/aipm-online-qualitative-research
 
-
+## WIP
 
 https://speakerdeck.com/gunta/da-shou-qi-ye-noaiturudao-ru-nobi-woyue-ete-saibaezientonocursorhuo-yong-zhan-lue
